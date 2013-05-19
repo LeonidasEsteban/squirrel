@@ -1,0 +1,5 @@
+.caption{position:absolute;bottom:5px;background:rgba(0,0,0,0.3);left:5px;right:5px;}
+.caption h3{font-size:16px;line-height:20px;margin:0;color:#fff}
+.thumbnail{position:relative;overflow:hidden;margin-bottom:10px}
+.file-input-wrapper{overflow:hidden;position:relative;cursor:pointer;z-index:1;cursor:pointer;}
+.file-input-wrapper input{position:absolute;top:0;right:0;opacity:0;cursor:pointer}
